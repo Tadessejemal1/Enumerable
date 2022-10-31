@@ -13,7 +13,7 @@ This project is about enumerables. It is created so as to master the use of ruby
     Git and Github Terminal browser.
 ## Setup
 
-clone the following repo https://github.com/Tadessejemal1/decode-morse
+clone the following repo https://github.com/Tadessejemal1/Enumerable
 cd into the directory and run bundle install to install dependencies
 
 ## Credits
